@@ -1,9 +1,9 @@
 {
   "type": "postgres",
   "host": "localhost",
-  "port": 5432,
+  "port": 4532,
   "username": "postgres",
-  "password": "docker",
+  "password": "f35a40e20081bf5d51c4f8f3e08a9e91",
   "database": "apiusers",
   "entities": ["./dist/modules/**/typeorm/entities/*.js"],
   "migrations":[
